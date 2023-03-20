@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Bienvenue+sur+le+compte+de+L%C3%A9o+Turible" alt="Typing SVG" /></a></p>
 
 <!--
 **Leo-Turible/Leo-Turible** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
